@@ -18,15 +18,15 @@ I am an engineering student specializing in **software development**, **data ana
   Built a Power BI dashboard to analyze supply chain metrics, including inventory levels, revenue, and profit trends. Tracked inventory order levels and revenue across periods to optimize stock management and cost control, delivering warehouse and channel-specific insights to support strategic decisions in supply chain operations.
 
 - **Dynamic Procurement Analytics**  
-  *[Link to Project]*  
+  *[View Project](https://github.com/YashRaj1240/Dynamic-Procurement-Analytics.git)*
   Developed a Power BI dashboard for dynamic procurement analysis, examining purchase orders, savings, and vendor performance. Monitored procurement spending by department and account type for accurate budget tracking, and conducted domestic vs. international sourcing analysis to inform cost-effective procurement strategies.
 
 - **Basic Ratio Analysis**  
-  *[Link to Project]*  
+  *[View Project](https://github.com/YashRaj1240/Basic-Ratio-Analysis.git)*  
   Created a Power BI dashboard for comprehensive financial ratio analysis over a decade, evaluating profitability, liquidity, and leverage trends. Analyzed profitability metrics (Gross, Operating, and Net Profit) to assess revenue-generating efficiency, with visualizations of Current and Cash Ratios for stakeholder insights on financial health.
 
 - **Internal Audit Analysis**  
-  *[Link to Project]*  
+  *[View Project](https://github.com/YashRaj1240/Internal-Audit-Analysis.git)*  
   Designed a Power BI dashboard for risk rating and audit outcome analysis, supporting internal audit assessments across departments. Visualized risk distribution and audit status to highlight areas for compliance improvement and effective risk management, with expense tracking insights to monitor and optimize spending within audit activities.
 
 ---
