@@ -14,7 +14,7 @@ I am an engineering student specializing in **software development**, **data ana
 ### 🚀 Projects
 
 - **Supply Chain Analytics**  
-  *[https://github.com/YashRaj1240/Supply-Chain-Analytics.git]*  
+  *[View Project](https://github.com/YashRaj1240/Supply-Chain-Analytics.git)*  
   Built a Power BI dashboard to analyze supply chain metrics, including inventory levels, revenue, and profit trends. Tracked inventory order levels and revenue across periods to optimize stock management and cost control, delivering warehouse and channel-specific insights to support strategic decisions in supply chain operations.
 
 - **Dynamic Procurement Analytics**  
