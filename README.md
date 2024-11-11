@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am an engineering student specializing in **software development**, **data analytics**, and **generative AI**. My journey through internships and competitive projects has fueled my passion for **machine learning**, **data science**, and **cybersecurity**.
 
 **Key Experiences:**
-- **Forensic Analysis Intern** at Ernst & Young: Automated forensic accounting tasks and presented insights through data visualization.
+- **Forensic Analysis Intern** at **Ernst & Young:** Automated forensic accounting tasks and presented insights through data visualization.
 - **Generative AI Trainee** at AGIE AI: Developed and optimized generative models, gaining hands-on experience with the latest in AI technologies.
 - **Smart India Hackathon Finalist 2023**: Implemented ML-based real-time intrusion detection, which sparked my interest in cybersecurity.
 
