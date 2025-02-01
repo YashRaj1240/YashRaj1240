@@ -1,4 +1,4 @@
-# 💥 Welcome to Yash Raj’s Digital Lab – Where Data Meets Innovation on an Epic Scale! 🚀
+# 💡 Yash Raj’s AI & Data Hub – Innovating with Generative AI and Analytics! 🚀
 
 ### 👨‍💻 About Me
 
@@ -6,28 +6,34 @@ I am an engineering Graduate specializing in **software development**, **data an
 
 **Key Experiences:**
 - **Forensic Analysis Intern** at **Ernst & Young**: Automated forensic accounting tasks and presented insights through data visualization.
-- **Finance Intern** at Bigg Bulls: Gained experience in financial analysis, budgeting, and forecasting, supporting data-driven financial decisions.
-- **Generative AI Trainee** at AGIE AI: Developed and optimized generative models, gaining hands-on experience with the latest in AI technologies.
+- **Finance Intern** at **Bigg Bulls**: Gained experience in financial analysis, budgeting, and forecasting, supporting data-driven financial decisions.
+- **Generative AI Trainee** at **AGIE AI**: Developed and optimized generative models, gaining hands-on experience with the latest in AI technologies.
+- **AI Conversation Design Intern** at **Convin.ai**: Developed and fine-tuned Generative AI and NLP models for conversational applications, integrating NLP pipelines and pre-trained models to enhance chatbot performance.
 
 ---
 
 ### 🚀 Projects
 
-- **Supply Chain Analytics**  
-  *[View Project](https://github.com/YashRaj1240/Supply-Chain-Analytics.git)*  
-  Built a Power BI dashboard to analyze supply chain metrics, including inventory levels, revenue, and profit trends. Tracked inventory order levels and revenue across periods to optimize stock management and cost control, delivering warehouse and channel-specific insights to support strategic decisions in supply chain operations.
+- **[LLMs for Financial Analysis](https://github.com/YashRaj1240/LLMs-Financial-Analysis.git)**  
+  Automated bank transaction categorization using the Llama2 model, enhancing data labeling efficiency. Designed a personal finance dashboard to visualize categorized transactions and generate actionable insights. 
 
-- **Dynamic Procurement Analytics**  
-  *[View Project](https://github.com/YashRaj1240/Dynamic-Procurement-Analytics.git)*
-  Developed a Power BI dashboard for dynamic procurement analysis, examining purchase orders, savings, and vendor performance. Monitored procurement spending by department and account type for accurate budget tracking, and conducted domestic vs. international sourcing analysis to inform cost-effective procurement strategies.
+- **[Structured RAG for PDF Information Extraction](https://github.com/YashRaj1240/Structured-RAG-PDF.git)**  
+  Utilized LangChain and OpenAI models to extract structured information from PDF documents, streamlining data retrieval and processing.
 
-- **Basic Ratio Analysis**  
-  *[View Project](https://github.com/YashRaj1240/Basic-Ratio-Analysis.git)*  
-  Created a Power BI dashboard for comprehensive financial ratio analysis over a decade, evaluating profitability, liquidity, and leverage trends. Analyzed profitability metrics (Gross, Operating, and Net Profit) to assess revenue-generating efficiency, with visualizations of Current and Cash Ratios for stakeholder insights on financial health.
+- **[Medical Assistant (Gen AI)](https://github.com/YashRaj1240/Medical-Assistant-GenAI.git)**  
+  Developed a Streamlit app using Google’s Generative AI to analyze medical images, assisting healthcare professionals with diagnostic insights.
 
-- **Internal Audit Analysis**  
-  *[View Project](https://github.com/YashRaj1240/Internal-Audit-Analysis.git)*  
-  Designed a Power BI dashboard for risk rating and audit outcome analysis, supporting internal audit assessments across departments. Visualized risk distribution and audit status to highlight areas for compliance improvement and effective risk management, with expense tracking insights to monitor and optimize spending within audit activities.
+- **[Supply Chain Analytics](https://github.com/YashRaj1240/Supply-Chain-Analytics.git)**  
+  Built a Power BI dashboard to analyze supply chain metrics, including inventory levels, revenue, and profit trends.
+
+- **[Dynamic Procurement Analytics](https://github.com/YashRaj1240/Dynamic-Procurement-Analytics.git)**  
+  Created a Power BI dashboard for procurement analysis, monitoring spending, savings, and vendor performance.
+
+- **[Basic Ratio Analysis](https://github.com/YashRaj1240/Basic-Ratio-Analysis.git)**  
+  Developed a financial ratio analysis dashboard to evaluate profitability, liquidity, and leverage trends over a decade.
+
+- **[Internal Audit Analysis](https://github.com/YashRaj1240/Internal-Audit-Analysis.git)**  
+  Designed a Power BI dashboard for risk rating and audit outcome analysis, supporting compliance and risk management.
 
 ---
 
@@ -51,8 +57,6 @@ I'm always expanding my knowledge in **AI**, **data science**, and **cybersecuri
 
 ---
 
-### 📫 Let's Connect
+### 👫 Let's Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com) or reach out directly to discuss ideas or projects.
-
-
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/yash-raj)** or reach out directly to discuss ideas or projects.
