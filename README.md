@@ -14,13 +14,13 @@ I am an engineering Graduate specializing in **software development**, **data an
 
 ### 🚀 Projects
 
-- **[LLMs for Financial Analysis](https://github.com/YashRaj1240/LLMs-Financial-Analysis.git)**  
+- **[LLMs for Financial Analysis](https://github.com/YashRaj1240/finance-analysis-llm)**  
   Automated bank transaction categorization using the Llama2 model, enhancing data labeling efficiency. Designed a personal finance dashboard to visualize categorized transactions and generate actionable insights. 
 
 - **[Structured RAG for PDF Information Extraction](https://github.com/YashRaj1240/Structured-RAG-PDF.git)**  
   Utilized LangChain and OpenAI models to extract structured information from PDF documents, streamlining data retrieval and processing.
 
-- **[Medical Assistant (Gen AI)](https://github.com/YashRaj1240/Medical-Assistant-GenAI.git)**  
+- **[Medical Assistant (Gen AI)](https://github.com/YashRaj1240/Medical-Assistant)**  
   Developed a Streamlit app using Google’s Generative AI to analyze medical images, assisting healthcare professionals with diagnostic insights.
 
 - **[Supply Chain Analytics](https://github.com/YashRaj1240/Supply-Chain-Analytics.git)**  
