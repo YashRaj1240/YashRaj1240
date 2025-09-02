@@ -5,11 +5,10 @@
 I am an engineering Graduate specializing in **software development**, **data analytics**, and **generative AI**. My journey through internships and competitive projects has fueled my passion for **machine learning**, **data science**, and **cybersecurity**.
 
 **Key Experiences:**
-- **Research Intern** at **Ernst & Young**: Automated forensic accounting tasks and presented insights through data visualization.
-- **Finance Intern** at **Bigg Bulls**: Gained experience in financial analysis, budgeting, and forecasting, supporting data-driven financial decisions.
-- **Generative AI Trainee** at **AGIE AI**: Developed and optimized generative models, gaining hands-on experience with the latest in AI technologies.
-- **AI Conversational intern** at **Convin.ai**: Developed and fine-tuned Generative AI and NLP models for conversational applications, integrating NLP pipelines and pre-trained models to enhance chatbot performance.
 - **Associate Software Engineer** at **Marelli**: Worked on BSP engineering and RAM optimization in Project R2EX, contributing to performance improvement in embedded automotive systems. Collaborated on debugging, software optimization, and system integration, ensuring reliability and efficiency in real-time environments.
+- **AI Conversational intern** at **Convin.ai**: Developed and fine-tuned Generative AI and NLP models for conversational applications, integrating NLP pipelines and pre-trained models to enhance chatbot performance.
+- **Generative AI Trainee** at **AGIE AI**: Developed and optimized generative models, gaining hands-on experience with the latest in AI technologies.
+- **Research Intern** at **Ernst & Young**: Automated forensic accounting tasks and presented insights through data visualization.
 ---
 
 ### 🚀 Projects
